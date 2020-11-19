@@ -1,0 +1,9 @@
+* Variables: Variables serian elementos que vamos creando para poder utilizar mas adelante, se les pueden agregar valores para hacerlos mas especificos, se hace con el signo =
+
+* Strings: Serian lineas de caracteres, van encerradas entre comillas. El largo de la linea es todo lo que esta dentro de las comillas, mientras este dentro de las comillas es parte de la string.
+
+* Funciones (argumentos, `return`): Funciones serian herramientas para poder utilizar las variables
+
+* Declaraciones `if` Se podria decir que es como un activador, para iniciar una accion entre las funciones y variables. por ejemplo, se puede utilizar para que automaticamente haga una u otra cosa dependiendo la informacion ingresada.
+
+* Valores booleanos (`true`, `false`) sirven para saber que deberia hacer automaticamente determinada funcion, se toma un valor y se le da una orden mientras que si es el otro valor, la orden va a ser diferente.
