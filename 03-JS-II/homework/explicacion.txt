@@ -1,0 +1,3 @@
+FOR: es una herramienta para poder hacer acciones repetitivas sin necesidad de copiar lo mismo una y otra vez.
+
+&&, ||, ! : son herramientas que se pueden usar como operadores matematicos para la logica boolean
