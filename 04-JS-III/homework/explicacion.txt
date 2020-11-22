@@ -1,0 +1,1 @@
+Arrays: Arrays serian conjuntos de objetos ordenados, de una manera que sea facill usarlos.
