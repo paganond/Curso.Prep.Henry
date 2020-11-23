@@ -1,0 +1,5 @@
+Objetos: son como los arreglos pero sin estar obligados a un orden numerico (matrices)
+Propiedades: seria el equivalente a las matrices de los arreglos.
+Métodos: serian los valores que se guardan en una funcion dentro de un objeto.
+Bucle for…in: seria for como en los arreglos, pero al no ser matrices de numeros, se utiliza for ..in para recorrer las diferentes claves y finaliza cuando recorrio todas.
+Notación de puntos vs notación de corchetes: notacion de puntos es literal, va a buscar el nombre exacto mientras que notacion de corchetes te permite hacer busquedas que pueden estar siendo utilizadas en otro aspecto.
