@@ -1,0 +1,1 @@
+Callback: seria pasar una funcion como argumento a otra funcion, pudiendo llamarla en cualquier momento, sirve para que mas de una funcion diferentes puedan llamar a otra funcion en especifico
