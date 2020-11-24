@@ -1,0 +1,3 @@
+Prototype: se podria decir que es como una plantilla base con metodos comunmente usados en todos los objetos, para no tener que copiar los metodos en cada objeto.
+
+constructors de clases: es una plantilla para compartir metodos con la finalidad de ahorrar recursos y simplificar los codigos con menor cantidad de lineas.
